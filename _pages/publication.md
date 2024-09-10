@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# 期刊论文
+## 期刊论文
 1. Tingting Wu, Xiao Ding, Hao Zhang, Minji Tang, Bing Qin, Ting Liu. Uncertainty-guided label correction with wavelet-transformed discriminative representation enhancement. Neural Networks. 2024.
 
 1. Siyao Cheng, Tian Ren, Hao Zhang, Jiayan Huang, Jie Liu. A Stackelberg Game Based Framework for Edge Pricing and Resource Allocation in Mobile Edge Computing. IEEE Internet of Things Journal. 2024.  
@@ -43,7 +43,7 @@ author_profile: true
 
 1. Hao Zhang, Nenghai Yu, Honggang Hu. The optimal noise distribution for privacy preserving in mobile aggregation applications[J]. International Journal of Distributed Sensor Networks, 2014, 10(2): 678098.
 
-# 会议论文
+## 会议论文
 1. Tingting Wu, Xiao Ding, Minji Tang, Hao Zhang, Bing Qin, Ting Liu. NoisywikiHow: A Benchmark for Learning with Real-world Noisy Labels in Natural Language Processing[C]//Findings of the Association for Computational Linguistics: ACL 2023.
 
 1. Bolong Liu,Hao Zhang, Jie Liu, and Qiang Wang. ACIGS: An automated large-scale crops image generation system based on large visual language multi-modal models[C]//Workshop on Sensing, Communication and Networking for Smart Agriculture (AgriSECON 2023). 2023: 7-13.  
@@ -56,5 +56,5 @@ author_profile: true
 
 1. Hao Zhang, Yonggang Wen, Nenghai Yu, Xinwen Zhang. Privacy-preserving computation for location-based information survey via mobile cloud computing[C]//2013 IEEE/CIC International Conference on Communications in China (ICCC). IEEE, 2013: 100-105.
 
-# 专著
+## 专著
 1. Hao Zhang , Yonggang Wen, Haiyong Xie, Nenghai Yu. Distributed hash table: Theory, platforms and applications. Springer. 2013. 
