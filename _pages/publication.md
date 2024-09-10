@@ -6,7 +6,7 @@ author_profile: true
 ---  
 
 
-## 期刊论文
+# 期刊论文
 1. Tingting Wu, Xiao Ding, Hao Zhang, Minji Tang, Bing Qin, Ting Liu. Uncertainty-guided label correction with wavelet-transformed discriminative representation enhancement. Neural Networks. 2024.
 
 1. Siyao Cheng, Tian Ren, Hao Zhang, Jiayan Huang, Jie Liu. A Stackelberg Game Based Framework for Edge Pricing and Resource Allocation in Mobile Edge Computing. IEEE Internet of Things Journal. 2024.  
