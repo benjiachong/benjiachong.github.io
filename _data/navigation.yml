@@ -5,13 +5,13 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
+  - title: "出版"
     url: /publications/
     
-  - title: "Work Experience"
+  - title: "工作经历"
     url: /workExperience/
 
-  - title: "Team"
+  - title: "团队"
     url: /team/
     
   # - title: "Talks"
