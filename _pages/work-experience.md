@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "工作经历"
+title: "Work Experience"
 permalink: /workExperience/
 author_profile: true
 ---
