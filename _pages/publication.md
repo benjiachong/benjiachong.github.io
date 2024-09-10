@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---  
 
+
 ## 期刊论文
 1. Tingting Wu, Xiao Ding, Hao Zhang, Minji Tang, Bing Qin, Ting Liu. Uncertainty-guided label correction with wavelet-transformed discriminative representation enhancement. Neural Networks. 2024.
 
