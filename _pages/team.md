@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/767c91a4-89cb-4974-b4d5-f31563989096)---
+  
 layout: archive
 title: "Team"
 permalink: /team/
