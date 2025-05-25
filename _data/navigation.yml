@@ -13,9 +13,6 @@ main:
     
   - title: "News"  
     url: /news/  
-    
-  # - title: "Team"  
-  #   url: /team/  
 
   # - title: "Talks"
   #   url: /talks/    
