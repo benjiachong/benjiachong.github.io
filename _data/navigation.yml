@@ -11,9 +11,12 @@ main:
   - title: "Work Experience"
     url: /workExperience/
 
-  - title: "Team"
-    url: /team/
-    
+  # - title: "Team"  
+  #   url: /team/
+
+  - title: "News"    
+    url: /news/
+
   # - title: "Talks"
   #   url: /talks/    
 
