@@ -11,8 +11,8 @@ main:
   - title: "Work Experience"
     url: /workExperience/
     
-  - title: "News"    
-    url: /news/
+  - title: "News"  
+    url: /news/  
     
   # - title: "Team"  
   #   url: /team/  
