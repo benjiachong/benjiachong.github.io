@@ -7,6 +7,14 @@ author_profile: true
 
 
 ## 期刊论文
+1. Hao Zhang, Yaolin Zhu, Tingting Wu, Siyao Cheng, Jie Liu. Model-Heterogeneous Federated Learning With Bidirectional Knowledge Distillation. Transactions on Mobile Computing. 2025.
+
+1. Yinglong Li, Siyao Cheng, Hao Zhang, Jie Liu. Model Lightweight Strategy under Federated Edge Learning Framework. Transactions on Vehicular Technology. 2025.
+
+1. 张浩，蔡晨馨，曲傲，刘轩宇，刘劼. Beehive：基于智能体的智慧农场操作系统. 计算. 2025, 1(2): 63-70.
+
+1. Dongbo Li, Ziqian Wang, Rongqiang Zhao, Hao Zhang, Zhisheng Yin, Nan Cheng, Jie Liu. Dynamic SFC Deployment for SDN/NFV-Based Satellite-Terrestrial Integrated Vehicular Networks. Transactions on Vehicular Technology. 2025.
+
 1. Tian Ren, Siyao Cheng, Hao Zhang, Jie Liu. Dynamic clustered federated learning via adaptive distribution similarity computation. Computer Networks. 2025.
 
 1. Mingrui Yin, Hao Zhang, Chenxin Cai, Meiyan Liang, Jie Liu. Omniveyor: An Assembled Logistics Sorting System Powered by Reinforcement Learning. IEEE Transactions on Automation Science and Engineering. 2025.
@@ -48,6 +56,8 @@ author_profile: true
 1. Hao Zhang, Nenghai Yu, Honggang Hu. The optimal noise distribution for privacy preserving in mobile aggregation applications[J]. International Journal of Distributed Sensor Networks, 2014, 10(2): 678098.
 
 ## 会议论文
+1. Jiahua Bao, Siyao Cheng, Jiaxing Du, Changjiang He, Zeming Lang, Hao Zhang, Jie Liu. BOLT: Fewer Tokens but More Performance Retention for Efficient Vision-Language Models Inference[C]//the 33rd ACM International Conference on Multimedia. 2025.
+
 1. Yinlong Li, Hao Zhang, Siyao Cheng, Jie Liu. Federated Edge Learning with Blurred or Pseudo Data Sharing[C]//Proceedings of the 53st International Conference on Parallel Processing. 2024.
 
 1. Tingting Wu, Xiao Ding, Minji Tang, Hao Zhang, Bing Qin, Ting Liu. NoisywikiHow: A Benchmark for Learning with Real-world Noisy Labels in Natural Language Processing[C]//Findings of the Association for Computational Linguistics: ACL 2023.
