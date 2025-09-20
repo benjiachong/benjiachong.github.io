@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=benjiachong.benjiachong.github.io)
+
 张浩，工学博士，哈工大计算学部&人工智能研究院副研究员，博导。属于计算学部泛在计算与智能系统研究中心。分别在2009年和2014年于中国科学技术大学获得学士和博士学位，并在南洋理工大学访学半年。现为“智慧农场技术与系统”全国重点实验室核心骨干成员，中国计算机学会（CCF）物联网专委会执行委员，中国计算机学会（CCF）数字农业专委会执行委员，ICME Aear Chair(meta reviwer), IEA/AIE 2023 PC成员，全国信标委物联网分技术委员会专家。2020年加入哈尔滨工业大学计算学部，主要研究方向包括边缘智能、路径规划、时空数据处理等，近年在TGRS，TMM，IoT Journal，ACL、ICPP、EMNLP等期刊和会议发表论文20余篇，出版英文专著1部，发明专利8项。主持和参与国家自然科学基金青年项目，国家重点研发计划，黑龙江省科技计划、黑龙江省头雁团队项目等多个国家级和省部级项目。
 
 # 招生
