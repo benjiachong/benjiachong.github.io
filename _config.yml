@@ -21,7 +21,7 @@ repository               : "benjiachong/benjiachong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html    
 author:
   # Biographic information
-  avatar           : "images/7c77a32fc59f5efa0ffebc4b9b19bd1d.jpg"
+  avatar           : "7c77a32fc59f5efa0ffebc4b9b19bd1d.jpg"
   name             : "张浩"
   pronouns         : # example: "she/her"
   bio              : "哈尔滨工业大学计算学部副研究员"
