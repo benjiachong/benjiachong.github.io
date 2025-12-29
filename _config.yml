@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "张浩"
   pronouns         : # example: "she/her"
-  bio              : "哈尔滨工业大学泛在计算与智能系统研究中心副研究员"
+  bio              : "哈尔滨工业大学计算学部副研究员"
   location         : "哈尔滨"
   employer         : "哈尔滨工业大学"
-  uri              : # URL
+  uri              : "https://homepage.hit.edu.cn/zhh1000"
   email            : "zhh1000@hit.edu.cn"
 
   # Academic websites
