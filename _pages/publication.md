@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## 期刊论文
+1. Mingrui Yin, Hao Zhang, Chenxin Cai, Jie Liu. An online multi-agent path finding algorithm for large-scale puzzle-based conveyor system. Expert Systems with Applications. 2025: 130057.
+
+1. Tingting Wu, Hao Zhang. Chain-of-Detection enables robust and efficient jailbreak defense. Neural Networks, 2025.
+
 1. Hao Zhang, Yaolin Zhu, Tingting Wu, Siyao Cheng, Jie Liu. Model-Heterogeneous Federated Learning With Bidirectional Knowledge Distillation. Transactions on Mobile Computing. 2025.
 
 1. Yinglong Li, Siyao Cheng, Hao Zhang, Jie Liu. Model Lightweight Strategy under Federated Edge Learning Framework. Transactions on Vehicular Technology. 2025.
@@ -56,6 +60,8 @@ author_profile: true
 1. Hao Zhang, Nenghai Yu, Honggang Hu. The optimal noise distribution for privacy preserving in mobile aggregation applications[J]. International Journal of Distributed Sensor Networks, 2014, 10(2): 678098.
 
 ## 会议论文
+1. Jiahua Bao, Siyao Cheng, Jiaxing Du, Yuhang Jia, Boyang Niu, Zeming Lang, Changjiang He, Hao Zhang, Jie Liu. Stop Mixing Things Up! BISCUIT Teaches Vision-Language Models to Learn New Concepts from Images on the Spot[C]//The Fortieth AAAI Conference on Artificial Intelligence. 2026. 
+
 1. Jiahua Bao, Siyao Cheng, Jiaxing Du, Changjiang He, Zeming Lang, Hao Zhang, Jie Liu. BOLT: Fewer Tokens but More Performance Retention for Efficient Vision-Language Models Inference[C]//the 33rd ACM International Conference on Multimedia. 2025.
 
 1. Yinlong Li, Hao Zhang, Siyao Cheng, Jie Liu. Federated Edge Learning with Blurred or Pseudo Data Sharing[C]//Proceedings of the 53st International Conference on Parallel Processing. 2024.
