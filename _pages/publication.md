@@ -60,6 +60,8 @@ author_profile: true
 1. Hao Zhang, Nenghai Yu, Honggang Hu. The optimal noise distribution for privacy preserving in mobile aggregation applications[J]. International Journal of Distributed Sensor Networks, 2014, 10(2): 678098.
 
 ## 会议论文
+1. Shanwen Mao, Hao Zhang, Jiasheng Li, Haoyu Qiao, Chenxin Cai, Tingting Wu, Jie Liu. No outlier channels but with outlier blocks[C]//ICLR, 2026.
+
 1. Jiahua Bao, Siyao Cheng, Jiaxing Du, Yuhang Jia, Boyang Niu, Zeming Lang, Changjiang He, Hao Zhang, Jie Liu. Stop Mixing Things Up! BISCUIT Teaches Vision-Language Models to Learn New Concepts from Images on the Spot[C]//The Fortieth AAAI Conference on Artificial Intelligence. 2026. 
 
 1. Jiahua Bao, Siyao Cheng, Jiaxing Du, Changjiang He, Zeming Lang, Hao Zhang, Jie Liu. BOLT: Fewer Tokens but More Performance Retention for Efficient Vision-Language Models Inference[C]//the 33rd ACM International Conference on Multimedia. 2025.
