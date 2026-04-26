@@ -7,6 +7,10 @@ author_profile: true
 
 
 ## 期刊论文
+1. Zhifeng Ma, Weifang Zhang, Yuanfeng Li, Yile Li, Lei Feng, Lingyun Feng, Bing Xu, Hao Zhang*, Jie Liu. S3NN: Exploring Stochastic Modeling in Precipitation Nowcasting Domain. IEEE Transactions on Geoscience and Remote Sensing. 2026.
+
+1. Yinlong Li, Siyao Cheng, Hao Zhang*, Jie Liu, Zhiyong Chen. AFcl: Asynchronous federated continual learning with mobile devices across edges. Advanced Engineering Informatics. 2026:74.
+  
 1. Mingrui Yin, Hao Zhang, Chenxin Cai, Jie Liu. An online multi-agent path finding algorithm for large-scale puzzle-based conveyor system. Expert Systems with Applications. 2025: 130057.
 
 1. Tingting Wu, Hao Zhang. Chain-of-Detection enables robust and efficient jailbreak defense. Neural Networks, 2025.
